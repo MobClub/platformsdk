@@ -1,2 +1,3 @@
-# platformsdk
-运营商SDK添加
+# PlatformSDK
+
+This project was created to contain platform sdk
